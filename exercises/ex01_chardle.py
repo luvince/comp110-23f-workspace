@@ -7,7 +7,7 @@ word = input("Enter a 5-character word: ")
 
 
 if(len(word) != 5):
-    print("Word must contain 5 letters")
+    print("Word must contain 5 characters")
     exit()
 
 
