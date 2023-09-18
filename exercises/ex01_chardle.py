@@ -50,7 +50,7 @@ if(instance_count >= 2):
 elif(instance_count >=1):
     print(str(instance_count) + " instance of " + str(letter_character) + " found in " + str(word))
 else:
-    print ("No instances of " + str(letter_character) + " in " + str(word))
+    print ("No instances of " + str(letter_character) + " found in " + str(word))
 
 
 
